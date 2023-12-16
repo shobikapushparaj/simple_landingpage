@@ -1,0 +1,24 @@
+.p {
+    background-color: red;
+    height: 60px;
+  }
+  .a {
+    background-size: cover;
+  }
+  .b{
+    width: 100%;
+  border: 1px solid black;
+  }
+  ul{
+    list-style: none;
+  }
+  ul li{
+    margin: 20px;
+    font-size: 20px;
+    display:inline-block;
+    width: 100px;
+  }
+  h1{
+    color: white;
+    font-size: 150px;
+  }
